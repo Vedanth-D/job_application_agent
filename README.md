@@ -19,12 +19,9 @@
 
 ### 🖥️ Live Dashboard
 
-> Upload resume → Search jobs → Watch the AI pipeline run in real time
 
 ![Dashboard](https://github.com/user-attachments/assets/bf8e653a-dbbc-492c-a2c6-94ad4bee860f)
 
-
-> *Add your own screenshot: take a screenshot of the running dashboard and save it as `screenshots/dashboard.png` in your repo*
 
 ---
 
