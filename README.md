@@ -404,6 +404,7 @@ Scraping + LLM scoring + document generation + live streaming UI — end-to-end 
 
 ## 👨‍💻 Author
 
+ Vedanth D
 Built as an Agentic AI portfolio project.
 
 **LinkedIn:** [linkedin.com/in/vedanth-d-73a685296](https://linkedin.com/in/vedanth-d-73a685296)
